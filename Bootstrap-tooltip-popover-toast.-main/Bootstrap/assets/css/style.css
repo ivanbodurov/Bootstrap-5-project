@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.hero {
+  height: 100vh;
+  /* background-image: url('https://top-clothe.news/img/products/17816-kate-spring-forest-fairy-tale-photography-background-for-photo-trees-photo-backgrounds-green-mikrofibr-washable-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero h1 {
+  color: #fff;
+}
+
+.left-side {
+  background-image: url('https://cenaprasno.news/pic/1_thumbs-Art-fabric-photography-background-brick-wall-custom-photo-prop-backgrounds-5ftx7ft-d-3306/53712.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.form-check p {
+  margin-bottom: 0;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(49,131,238);
+}
+/* carousel */
+.carousel, .carousel-item, .carousel-inner {
+  height: 80vh;
+  width: 100%;
+}
+
+/* carousel background */
+.carousel-item {
+  display: flex!important;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.carousel-item.item-1 {
+  background-image: url('https://promptinnov.com/wp-content/uploads/2016/03/techno-bg.jpg');
+}
+.carousel-item.item-2 {
+  background-image: url('https://escapereality.bg/data/ufiles/images/slider/sliderForStaticPage/big/virtual-reality-adventure-centter.jpg');
+}
+.carousel-item.item-3 {
+  background-image: url('https://thevoice.bg/var/charts/image_67bab2bc5a277557c553.png');
+}
+.carousel-caption {
+  position: initial;
+}
+
+.card {
+  margin-bottom: 15px;
+}
+
+.accordion {
+  margin-top: 15px;
+}
